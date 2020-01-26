@@ -12,6 +12,30 @@ h2, h3 {
    letter-spacing: .3px;
 }
 
+
+/* Login Page Logo */
+
+.imgLogoIcon {
+content: url(https://raw.githubusercontent.com/classicjazz/photon-theme/master/photon.png) !important; }
+  
+
+/* Main Drawer Mobile Logo */
+
+.adminDrawerLogo img {
+content: url(https://raw.githubusercontent.com/classicjazz/photon-theme/master/photon.png) !important; }
+
+  
+/* Home Page Logo */
+
+.pageTitleWithLogo {
+background-image: url(https://raw.githubusercontent.com/classicjazz/photon-theme/master/photon.png) !important; }
+
+
+/* Compact episode preview images */
+
+.listItemImage.listItemImage-large.itemAction.lazy {height: 140px;}
+
+
 /* Cast thumnails in small circles */
 
 #castContent .card.portraitCard.personCard.card-hoverable.card-nofocustransform.card-withuserdata {width: 3.7cm; font-size: 80% !important;}
@@ -42,7 +66,6 @@ h2, h3 {
   opacity: 0.5;
   filter: alpha(opacity=50); /* For IE8 and earlier */
 }
-
 
 
 /* Temporary fix for channel image skewing */
