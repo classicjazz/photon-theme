@@ -70,6 +70,10 @@ background-image: url(https://raw.githubusercontent.com/classicjazz/photon-theme
 
 /* Temporary fix for channel image skewing */
 
+.visualCardBox .cardContent{background-size: contain;}
+
+
+
 #castContent .cardContent-button.cardImageContainer.coveredImage.cardContent.cardContent-shadow.itemAction.lazy {background-size: cover; !important; border-radius: 1.7cm;}
 #castContent .cardContent-button.cardImageContainer.coveredImage.defaultCardBackground.defaultCardBackground1.cardContent.cardContent-shadow.itemAction {background-size: cover; !important; border-radius: 1.7cm;}
 #castContent .cardContent-button.cardImageContainer.coveredImage.defaultCardBackground.defaultCardBackground2.cardContent.cardContent-shadow.itemAction {background-size: cover; !important; border-radius: 1.7cm;}
