@@ -1,0 +1,13 @@
+/* This is a custom theme for the Photon Media Center */
+
+@import url(https://fonts.googleapis.com/css?family=Karla:400,600,700);
+body {
+    font-family: 'Karla', sans-serif;
+}
+h1, h2, h3 {
+   font-family: 'Karla', sans-serif; text-transform: uppercase;
+   color: rgba(255, 255, 255, 0.87) !important;
+}
+h2, h3 {
+   letter-spacing: .3px;
+}
