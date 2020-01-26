@@ -11,3 +11,9 @@ h1, h2, h3 {
 h2, h3 {
    letter-spacing: .3px;
 }
+
+/* Cast thumnails in small circles */
+
+#castContent .card.portraitCard.personCard.card-hoverable.card-nofocustransform.card-withuserdata {width: 3.7cm; font-size: 80% !important;}
+#castContent .card.portraitCard.personCard.card-nofocustransform.card-withuserdata {width: 3.7cm; font-size: 80% !important;}
+#castContent .card.overflowPortraitCard.personCard.card-nofocustransform.card-withuserdata {width: 3.7cm; font-size: 80% !important;}
