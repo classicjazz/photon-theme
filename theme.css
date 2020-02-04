@@ -1,14 +1,3 @@
-/* This is a custom theme for the Photon Media Center */
-/* To use, add 
-
-@import url('https://raw.githubusercontent.com/classicjazz/photon-theme/master/theme.css')
-
-to General > Settings > Custom CSS
-
- */
-
-
-
 @import url('https://fonts.googleapis.com/css?family=Karla:400,600,700');
 body {
     font-family: 'Karla', sans-serif;
